@@ -19,6 +19,18 @@ MonoBehaviour:
     m_Key: NewString
     m_Metadata:
       m_Items: []
+  - m_Id: 59862066126848
+    m_Key: CurrencyStringFormat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59975572381696
+    m_Key: CurrencySmartStringFormat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 61725549256704
+    m_Key: CurrencyCustomSmartStringFormat
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

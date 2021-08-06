@@ -16,11 +16,29 @@ MonoBehaviour:
     m_Code: en
   m_SharedData: {fileID: 11400000, guid: c53891ef8a02e4b8fbea8b467892b610, type: 2}
   m_Metadata:
-    m_Items: []
+    m_Items:
+    - id: 0
   m_TableData:
   - m_Id: 6768549888
     m_Localized: string
     m_Metadata:
       m_Items: []
+  - m_Id: 59862066126848
+    m_Localized: 'Currency amount: {0:C2}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59975572381696
+    m_Localized: 'Currency amount: {Amount:C}'
+    m_Metadata:
+      m_Items:
+      - id: 0
+  - m_Id: 61725549256704
+    m_Localized: 'Currency amount: {Amount:C}'
+    m_Metadata:
+      m_Items: []
   references:
     version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00e0af268c360000
